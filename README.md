@@ -1,5 +1,4 @@
-# LogisticsShippingRates
-# This is a ReadMe file for the IBM full stack developer's Git Practice Project
+# LogisticsShippingRates - This is a ReadMe file for the IBM full stack developer's Git Practice Project
 
 Please consider the below factors while contributing
 Code Style:
